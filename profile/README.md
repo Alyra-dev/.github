@@ -1,5 +1,4 @@
 # Alyra
-## ここは？
 LasteSoftとAqued Devが合併して誕生したグループです。
 ## 歴史
 - 2021/10/09: DisBotCreate(TeaAroko)創立
